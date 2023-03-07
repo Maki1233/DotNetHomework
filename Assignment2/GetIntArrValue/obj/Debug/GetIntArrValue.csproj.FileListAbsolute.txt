@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\obj\Debug\GetIntArrValue.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\obj\Debug\GetIntArrValue.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\bin\Debug\GetIntArrValue.exe.config
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\bin\Debug\GetIntArrValue.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\bin\Debug\GetIntArrValue.pdb
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\obj\Debug\GetIntArrValue.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetIntArrValue\obj\Debug\GetIntArrValue.pdb

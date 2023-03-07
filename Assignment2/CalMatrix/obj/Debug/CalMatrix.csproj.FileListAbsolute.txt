@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\bin\Debug\CalMatrix.exe.config
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\bin\Debug\CalMatrix.exe
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\bin\Debug\CalMatrix.pdb
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\obj\Debug\CalMatrix.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\obj\Debug\CalMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\obj\Debug\CalMatrix.exe
+C:\Users\Lenovo\source\repos\Assignment2\CalMatrix\obj\Debug\CalMatrix.pdb

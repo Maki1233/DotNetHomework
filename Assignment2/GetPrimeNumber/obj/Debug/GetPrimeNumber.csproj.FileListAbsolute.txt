@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\bin\Debug\GetPrimeNumber.exe.config
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\bin\Debug\GetPrimeNumber.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\bin\Debug\GetPrimeNumber.pdb
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\obj\Debug\GetPrimeNumber.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\obj\Debug\GetPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\obj\Debug\GetPrimeNumber.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeNumber\obj\Debug\GetPrimeNumber.pdb

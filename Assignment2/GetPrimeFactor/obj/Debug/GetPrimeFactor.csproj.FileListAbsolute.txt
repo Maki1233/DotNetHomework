@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\bin\Debug\GetPrimeFactor.exe.config
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\bin\Debug\GetPrimeFactor.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\bin\Debug\GetPrimeFactor.pdb
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\obj\Debug\GetPrimeFactor.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\obj\Debug\GetPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\obj\Debug\GetPrimeFactor.exe
+C:\Users\Lenovo\source\repos\Assignment2\GetPrimeFactor\obj\Debug\GetPrimeFactor.pdb
