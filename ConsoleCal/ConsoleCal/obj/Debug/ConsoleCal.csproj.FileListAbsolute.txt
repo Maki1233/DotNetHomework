@@ -1,7 +1,0 @@
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\bin\Debug\ConsoleCal.exe.config
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\bin\Debug\ConsoleCal.exe
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\bin\Debug\ConsoleCal.pdb
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\obj\Debug\ConsoleCal.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\obj\Debug\ConsoleCal.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\obj\Debug\ConsoleCal.exe
-C:\Users\Lenovo\source\repos\ConsoleCal\ConsoleCal\obj\Debug\ConsoleCal.pdb
